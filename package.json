@@ -1,0 +1,31 @@
+{
+  "name": "saltfish",
+  "version": "1.0.0",
+  "description": "'saltfishBlog'",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "dev":"vuepress dev docs",
+    "build":"vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Saltedfish117/slatfishBlog.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "vue",
+    "react"
+  ],
+  "author": "张林峰",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saltedfish117/slatfishBlog/issues"
+  },
+  "homepage": "https://github.com/Saltedfish117/slatfishBlog#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  }
+}
